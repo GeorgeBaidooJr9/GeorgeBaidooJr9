@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GeorgeBaidooJr9
+- 👋 Hi, I’m @GeorgeBaidooJr9 and I am a Cloud and DevOps Engineer 🛠💻
 - 👀 I’m interested in Cloud Computing, Programming, and Cybersecurity!
 - 🌱 I’m currently learning AWS Cloud, Linux, Python, GitHub, Kubernetes, Terraform and Docker.
-- 💞️ I’m looking to collaborate on projects for absolute beginners, transitioning into tech 
+- 💞️ I’m looking to network with professionals in the Cloud space. 
 - 📫 How to reach me is through LinkedIn/Twitter 
 
 <!---
