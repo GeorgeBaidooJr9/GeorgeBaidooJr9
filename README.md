@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@GeorgeBaidooJr](https://medium.com/@GeorgeBaidooJr)
 
-- 📝 I regularly write articles on [Cloud/DevOps concepts](Cloud/DevOps concepts)
+- 📝 I regularly write articles on Cloud/DevOps concepts
 
 - 💬 Ask me about **AWS and Linux**
 
