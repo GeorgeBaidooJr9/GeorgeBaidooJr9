@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/@georgebaidoojr" target="blank"><img src="https://img.shields.io/twitter/follow/@georgebaidoojr?logo=twitter&style=for-the-badge" alt="@georgebaidoojr" /></a> </p>
 
-- 🔭 I’m currently working on **Linux and Docker concepts/projects**
+- 🔭 I’m currently working on **Docker and Coding concepts/projects**
 
-- 🌱 I’m currently learning **Linux and Docker**
+- 🌱 I’m currently learning **Docker and Programming**
 
 - 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@GeorgeBaidooJr](https://medium.com/@GeorgeBaidooJr)
 
-- 📝 I regularly write articles on Cloud/DevOps concepts
+- 📝 I regularly write articles on Cloud/DevOps/Programming concepts
 
 - 💬 Ask me about **AWS and Linux**
 
