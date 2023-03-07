@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/georgebaidoojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebaidoojr" height="30" width="40" /></a>
 <a href="https://instagram.com/@georgebaidoo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@georgebaidoo_" height="30" width="40" /></a>
 <a href="https://medium.com/@georgebaidoojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@georgebaidoojr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/george baidoo jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="george baidoo jr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TechWithGeorgeB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="george baidoo jr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
