@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Baidoo Jr</h1>
-<h3 align="center">A IT Support & Cybersecurity Speccialist based in California(United States)</h3>
+<h3 align="center">A IT Support & Cybersecurity Specialist based in California(United States)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgebaidoojr9&label=Profile%20views&color=0e75b6&style=flat" alt="georgebaidoojr9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@georgebaidoojr" target="blank"><img src="https://img.shields.io/twitter/follow/@georgebaidoojr?logo=twitter&style=for-the-badge" alt="@georgebaidoojr" /></a> </p>
