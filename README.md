@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm George Baidoo Jr</h1>
-<h3 align="center">A Cloud/DevOps Engineer based in California(United States)</h3>
-<img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
-
+<h3 align="center">A IT Support & Cybersecurity Speccialist based in California(United States)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgebaidoojr9&label=Profile%20views&color=0e75b6&style=flat" alt="georgebaidoojr9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@georgebaidoojr" target="blank"><img src="https://img.shields.io/twitter/follow/@georgebaidoojr?logo=twitter&style=for-the-badge" alt="@georgebaidoojr" /></a> </p>
 
-- 🔭 I’m currently working on **Linux concepts/projects**
+- 🔭 I’m currently working on **IT/Cybersecurity Projects**
 
-- 🌱 I’m currently learning **Linux and Terraform**
+- 🌱 I’m currently learning **IT/Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
-
-- 👨‍💻 All of my projects are available at [https://medium.com/@GeorgeBaidooJr](https://medium.com/@GeorgeBaidooJr)
-
-- 📝 I regularly write articles on Cloud/DevOps/Programming concepts
-
-- 💬 Ask me about **AWS and Linux**
+- 👯 I’m looking to collaborate on **Anything IT, Cloud & Cybersecurity related**
 
 - 📫 How to reach me **gbaidoo94@gmail.com**
 
